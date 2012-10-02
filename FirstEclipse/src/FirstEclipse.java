@@ -1,4 +1,3 @@
-
 public class FirstEclipse {
 
 	/**
@@ -9,6 +8,12 @@ public class FirstEclipse {
 		System.out.println("First Eclipse P/G");
 		
 		System.out.println("First Eclipse P/G");
+
+		System.out.println("aaaaaaaaaaaaaaaaaa");
+
+		System.out.println("write by lee2day........ㅋㅋㅋ");
+
+
 	}
 
 }
