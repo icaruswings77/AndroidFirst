@@ -1,4 +1,3 @@
-
 public class FirstEclipse {
 
 	/**
@@ -8,6 +7,8 @@ public class FirstEclipse {
 		// TODO Auto-generated method stub
 		System.out.println("First Eclipse P/G");
 		
+		System.out.println("First Eclipse P/G");
+
 		System.out.println("First Eclipse P/G");
 	}
 
