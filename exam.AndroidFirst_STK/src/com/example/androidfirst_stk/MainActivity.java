@@ -12,6 +12,8 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView MyText = new TextView(this);
+        MyText.setText("HI~~ Android");
+        MyText.setText("»≠¿Ã∆√~");
         setContentView(MyText);
     }
 
